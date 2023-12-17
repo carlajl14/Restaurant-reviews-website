@@ -34,6 +34,11 @@ body {
     color: white;
 }
 
+.nav__link:hover{
+    color: white;
+    border-bottom: 1px solid white;
+}
+
 /* CONTAINER */
 .container {
     width: 100%;
@@ -78,4 +83,9 @@ body {
 .footer__link {
     text-decoration: none;
     color: white;
+}
+
+.footer__link:hover{
+    color: white;
+    border-bottom: 1px solid white;
 }

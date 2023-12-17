@@ -52,10 +52,16 @@ body {
 
 /* SECTION */
 .section {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    padding-top: 20px;
+    width: 800px;
+}
+
+.formulario{
+    margin-left: 270px;
+}
+
+.boton {
+    background-color: #db0e0e;
+    color: #eb7575;
 }
 
 /* FOOTER */
